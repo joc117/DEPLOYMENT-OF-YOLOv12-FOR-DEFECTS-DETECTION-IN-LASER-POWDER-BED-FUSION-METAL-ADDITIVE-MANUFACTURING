@@ -9,6 +9,6 @@ Table below shows the result of our 3 models, namely (1) Dataset A (2) Dataset B
 |   3    | Dataset A | 108  | 3688      | 0.700         | 0.614  | 0.651 | 0.280    |
 |   3    | Dataset B | 67   | 261       | 0.579         | 0.521  | 0.555 | 0.336    |
 
-Code splitting and preprocessing the images is included in Prepocessing ORNL.ipynb
+Code for splitting and preprocessing the images is included in Prepocessing ORNL.ipynb
 
-Code running the YOLOv12 model is included in training_model.ipynb
+Code for running the YOLOv12 model is included in training_model.ipynb
